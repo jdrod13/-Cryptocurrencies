@@ -8,7 +8,7 @@
 
 
 
-##Resources
+## Resources
 
 
 •	Technologies used:
@@ -50,13 +50,44 @@
 <img width="564" alt="Crypto 3" src="https://user-images.githubusercontent.com/81654454/133944644-abf930b7-2142-42fa-b05a-0457e026ead9.PNG">
 
 
-As a result, we can get four clusters' for our optimal effect from the graph displayed in our analysis. Therefore, I  proceeded with the KMeans analysis to fit the PCA data frame and predict the clustering. 
-
-Foto 4
 
 
-**3D Visualization optic view**.
+**As a result, we can get four clusters' for our optimal effect from the graph displayed in our analysis. Therefore, I  proceeded with the KMeans analysis to fit the PCA data frame and predict the clustering.** 
 
-Foto 5
 
-** As shown in our interactive representation from the 3D scatter plot, each clustered crypto related to the three principal components created on the PCA.**
+
+<img width="596" alt="Crypto 4" src="https://user-images.githubusercontent.com/81654454/133944651-1f134185-fcf2-448e-989b-47085904ddca.PNG">
+
+
+
+#### **3D Visualization optic view**.
+
+
+
+
+**As shown in our interactive representation from the 3D scatter plot, each clustered crypto related to the three principal components created on the PCA.**
+
+
+
+<img width="575" alt="Crypto 5" src="https://user-images.githubusercontent.com/81654454/133944693-8f2f2961-bedf-42a3-ae99-69197d79ed86.PNG">
+
+
+
+
+
+<img width="566" alt="Crypto 6" src="https://user-images.githubusercontent.com/81654454/133944702-09c6281a-ee0a-45a7-9d93-2eb0974f95ca.PNG">
+
+
+
+
+## Conclusion
+
+
+
+**The unsupervised machine learning process aims to discover patterns or groups of data when there is no known output. This analysis successfully grouped cryptocurrencies into four groups.**
+
+
+
+
+**If we were to create a crypto investment portfolio, we would need to analyze the clusters further. We must have a good starting point where we can see that the most profitable cryptos in the two groups have less supply and mined coins than others. These cryptos are Bitcoin and Ethereum. Finally, we advised keeping up with technology innovations where new altcoins are discovered and are proposed as an exciting business opportunity.**
+
