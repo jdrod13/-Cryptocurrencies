@@ -56,7 +56,7 @@
 
 
 
-<img width="596" alt="Crypto 4" src="https://user-images.githubusercontent.com/81654454/133944651-1f134185-fcf2-448e-989b-47085904ddca.PNG">
+<img width="615" alt="Crypto 7" src="https://user-images.githubusercontent.com/81654454/133945113-bda4483c-d859-40d8-9f34-4840fbad4432.PNG">
 
 
 
